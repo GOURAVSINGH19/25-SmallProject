@@ -32,8 +32,6 @@ export default function RandomColor() {
   return (
     <div
       style={{
-        width: "100vw",
-        height: "100vh",
         backgroundColor: randomColor,
         display: "flex",
         flexDirection: "column",
